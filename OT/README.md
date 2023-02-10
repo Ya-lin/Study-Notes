@@ -1,7 +1,3 @@
-# Study-Notes
+# Optimal Transport
 
-Probability Theory and Statistics 
-
-Optimization
-
-Machine Learning
+[Optimal transport for Gaussian mixture models](https://arxiv.org/pdf/1710.07876.pdf)
