@@ -1,6 +1,8 @@
 # Study-Notes
 
-Probability Theory and Statistics 
+Probability Theory
+
+Statistics 
 
 Optimization
 
