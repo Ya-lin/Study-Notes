@@ -1,7 +1,7 @@
 # Study-Notes
 
-Probability Theory and Statistics 
+### Probability Theory and Statistics 
 
-Optimization
+### Optimization
 
-Machine Learning
+### Machine Learning
