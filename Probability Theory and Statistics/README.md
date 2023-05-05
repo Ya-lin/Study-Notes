@@ -9,5 +9,7 @@
 
 ### [Variational Inference with Tail-adaptive f-Divergence](https://proceedings.neurips.cc/paper/2018/file/1cd138d0499a68f4bb72bee04bbec2d7-Paper.pdf)
 
+### [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/pdf/2208.11970.pdf)
+
 
 
