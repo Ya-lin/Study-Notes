@@ -3,6 +3,9 @@
 <style|generic>
 
 <\body>
+  <doc-data|<doc-title|Convex Optimization>|<doc-author|<author-data|<author-name|yalin
+  liao>>>>
+
   The following problem
 
   <\eqnarray*>
