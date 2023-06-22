@@ -1,1 +1,1 @@
-# CC
+# Optimization problem
